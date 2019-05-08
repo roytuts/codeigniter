@@ -1,0 +1,99 @@
+.menu{
+    height:2.5em;
+    max-width:100%;
+    margin-top: -2px;
+    position:relative;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    background:#666;
+    list-style-type: none;
+}
+
+/*Top level list items*/
+.menu ul li{
+    margin: 0;
+    float: left;
+    cursor:pointer;
+    display: inline;
+    position: relative;
+    font-weight:normal;
+}
+
+/*Top level menu link items style*/
+.menu ul li a{
+    display: block;
+    color:#fff;
+    height:2.5em;
+    padding:0 1em;
+    font-weight:bold;
+    line-height:2.5em;
+    text-decoration: none;
+}
+
+.menu ul li:hover a,
+.menu ul li a:hover,
+.menu ul li a:focus {
+    color:#000; 
+    background:#ccc;
+
+}
+.menu ul li a:active {
+    color:#666; 
+    background:#fff;
+}
+.menu ul li.current a {
+    color:#666; 
+    background:#fff;
+    cursor:default;
+    font-weight:bold;
+}
+
+/*1st sub level menu*/
+.menu ul li ul{
+    left: 0;
+    border-top:0;
+    display: block;
+    position: absolute;
+    visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.menu ul li ul li{
+    display: list-item;
+    float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.menu ul li ul li ul{
+    top: 0;
+}
+
+/* Sub level menu links style */
+.menu ul li ul li a{
+    margin: 0;
+    width: 150px;
+    background:#444;
+    border-top:1px solid #444;
+}
+
+.menu ul li ul li a:hover{ /*sub menus hover style*/
+    color: #fff;
+    background: #444;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+    position: absolute;
+    top: 12px;
+    right: 5px;
+}
+
+.rightarrowclass{
+    position: absolute;
+    top: 10.5px;
+    right: 5px;
+}
