@@ -1,0 +1,1 @@
+Read tutorial https://www.roytuts.com/setup-hmvc-with-codeigniter-3/
