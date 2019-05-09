@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/separating-front-end-and-back-end-in-codeigniter/
