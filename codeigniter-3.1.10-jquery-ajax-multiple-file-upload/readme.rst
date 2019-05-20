@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/ajax-multiple-files-upload-using-codeigniter-jquery/
