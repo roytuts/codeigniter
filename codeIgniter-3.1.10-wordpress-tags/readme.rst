@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/create-wordpress-like-add-tags-using-codeigniter-and-jquery/
