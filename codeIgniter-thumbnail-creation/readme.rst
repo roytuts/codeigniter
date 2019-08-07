@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/thumbnail-creation-example-in-codeigniter/
