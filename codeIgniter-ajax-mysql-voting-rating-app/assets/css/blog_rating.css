@@ -1,0 +1,24 @@
+/*HOLD THE RATING AND THE BASE TOGETHER*/
+.r {
+    position: relative; 
+} /*MUST BE ABSOLUTE TO STACKED*/
+.rating, .transparent { 
+    position: absolute; 
+} 
+.rating { 
+    z-index: 1; 
+} 
+.star { 
+    background: url("../images/star.png"); 
+    cursor: pointer; float: left !important; /*KEEPS THE STAR NEXT TO EACH OTHER*/ 
+    height: 20px; width: 20px; 
+}
+.transparent .star {
+    opacity: .25; /*BASE STARS ARE TRANSPARENT UNTIL MOUSEOVER*/ 
+} 
+.rating .star { 
+    opacity: 1.0; /*CURRENT RATING IS VISIBLE UNTIL MOUSEOVER*/ 
+} 
+.votes { 
+    float: left; /*KEEPS THE NUMBER OF VOTES NEXT TO THE RATING & BASE*/
+}
