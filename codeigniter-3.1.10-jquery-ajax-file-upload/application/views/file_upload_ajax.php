@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>AJAX File upload using Codeigniter, jQuery</title>
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script type="text/javascript">
             $(document).ready(function (e) {
                 $('#upload').on('click', function () {
