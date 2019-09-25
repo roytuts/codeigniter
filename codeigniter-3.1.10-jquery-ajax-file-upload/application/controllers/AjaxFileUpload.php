@@ -4,9 +4,9 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 /**
- * Description of ajaxupload
+ * Description of AjaxFileUpload
  *
- * @author https://roytuts.com
+ * @author https://www.roytuts.com
  */
 class AjaxFileUpload extends CI_Controller {
 
