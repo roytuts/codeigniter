@@ -13,13 +13,14 @@ class AuthModel extends CI_Model {
 	private $login = 'login';
 
 	function get_user($username, $password) {
+		$this->db->limit(1);
 		$this->db->where('username', $username);
 		$this->db->where('password', $password);
 		
-		$result = $this->db->get($this->login)->result();
+		$query = $this->db->get($this->login);
 		
-		if($result) {
-			return $result;
+		if($query->row()) {
+			return $query->row();
 		}
 		
 		return NULL;
