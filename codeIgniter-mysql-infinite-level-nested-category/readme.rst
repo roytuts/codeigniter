@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/infinite-dynamic-multi-level-nested-category-with-codeigniter-and-mysql/
