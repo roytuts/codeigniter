@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/codeigniter-select-unique-random-row-every-day-from-mysql/
