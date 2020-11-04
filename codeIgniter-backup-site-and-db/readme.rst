@@ -1,0 +1,1 @@
+You can go through the tutorial https://www.roytuts.com/backup-site-and-database-in-codeigniter/
