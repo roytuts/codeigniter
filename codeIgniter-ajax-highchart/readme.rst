@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/highchart-using-ajax-codeigniter/
