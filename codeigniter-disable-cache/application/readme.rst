@@ -1,0 +1,1 @@
+You can read tutorial at https://roytuts.com/how-to-disable-browser-cache-easily-in-codeigniter/
