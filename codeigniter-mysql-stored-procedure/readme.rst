@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/call-stored-procedure-using-codeigniter/
+You can read tutorial https://roytuts.com/call-stored-procedure-using-codeigniter/
