@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/prevent-sql-injection-in-codeigniter/
+You can read tutorial https://roytuts.com/prevent-sql-injection-in-codeigniter/
