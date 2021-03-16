@@ -1,0 +1,31 @@
+table.datatable {
+	width:100%;
+	border: none;
+	background:#fff;
+}
+table.datatable td.table_foot {
+	border: none;
+	background: #fff;
+	text-align: center;
+}
+table.datatable tr.odd_col {
+	background: none;
+}
+table.datatable tr.even_col {
+	background: #ddd;
+}
+table.datatable td {
+	font-size:10pt;
+	padding:5px 10px;
+	border-bottom:1px solid #ddd;
+	text-align: left;
+}
+table.datatable th {
+	text-align: left;
+	font-size: 8pt;
+	padding: 10px 10px 7px;   
+	text-transform: uppercase;
+	color: #fff;
+	background:url('../img/table/head.gif') left -5px repeat-x;
+	font-family: sans-serif;
+}
