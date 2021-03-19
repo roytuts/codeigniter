@@ -1,1 +1,0 @@
-You can read tutorial https://www.roytuts.com/upload-and-play-video-using-codeigniter/
