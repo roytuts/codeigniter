@@ -1,1 +1,0 @@
-You can read the tutorial https://www.roytuts.com/using-template-in-codeigniter-3/
