@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/codeigniter-multiple-files-upload/
+You can go through the tutorial https://roytuts.com/codeigniter-multiple-files-upload/
