@@ -37,7 +37,7 @@ class AuthController extends CI_Controller {
             $this->form_validation->set_rules('password', 'Password', 'trim|required|max_length[25]|xss_clean');
             if ($this->form_validation->run()) {        // validation ok
 				$username = $this->input->post('password');
-                $password = $this->input->post('password');
+                $password = $this->input->post('username');
                 if ($this->authlibrary->login($username, $password)) {        // success
                     $this->session->set_flashdata($this->config->item('msg_key'), $this->lang->line('login_success'));
                     $this->session->keep_flashdata($this->config->item('msg_key'));
