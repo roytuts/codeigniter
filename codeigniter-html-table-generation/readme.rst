@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/generate-html-table-from-mysql-database-using-codeigniter/
