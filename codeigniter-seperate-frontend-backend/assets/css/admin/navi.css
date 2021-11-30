@@ -1,0 +1,65 @@
+#header #nav{
+    height: 27px;
+    margin:0;
+    padding: 5px 20px 0 10px;
+    position: relative;
+}
+
+#header #nav ul{
+    list-style: none;
+}
+#header #nav ul li.upp{
+    display: inline;
+    float: left;
+    position: relative;
+    margin: 0;
+    text-align: center;
+}
+#header #nav ul li.upp a{
+    color: #bebebe;
+    display: block;
+    /*    padding: 0px 30px 11px 10px;*/
+    padding: 0px 10px 11px 10px;
+    text-align: center;
+    text-shadow: #000 0px 1px 1px;
+}
+#header #nav ul li.upp a:hover{
+    color: #f07e01;
+}
+#header #nav ul li.upp a .active{
+    color: #f07e01;
+}
+
+#header #nav ul li.upp ul{
+    display: none;
+}
+#header #nav ul li.upp:hover ul{
+    background: #17181c;
+    border: 1px solid #58585a;
+    border-top: none;
+    display: block;
+    position: absolute;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    z-index: 9999;
+}
+#header #nav ul li.upp ul li{
+    color: #4e4e4e;
+    display: block;
+    padding: 0 0 0 8px;	
+    text-align: left;
+    width: 150px;	
+
+}
+#header #nav ul li.upp ul li a{
+    background: none;
+    display: inline-block;
+    padding: 6px 25px 6px 4px;
+}
+#header #nav ul li.upp ul li a:hover{
+}
+

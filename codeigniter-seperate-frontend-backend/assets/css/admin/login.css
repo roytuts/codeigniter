@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #f3f3f3 url(../../img/admin/bg_login_top.jpg) no-repeat top center;
+    color: #bebebe;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4{
+    font-family: Arial, sans-serif;
+    color: #444444;
+}
+
+
+button, .button{
+    background: #F3F3F3;
+    border: 1px solid #DCDCDC;
+    border-radius: 2px;
+    color: #444444;
+    cursor: pointer;
+    display: inline-block;
+    font: 700 11px Tahoma, Arial, sans-serif;
+    margin-right: 10px;
+    padding: 7px 12px 7px 12px;
+    position: relative;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #FFFFFF;
+}
+button:hover, .button:hover{
+    border-bottom-color: #999999;
+    border-left-color: #999999;
+    border-right-color: #999999;
+    border-top-color: #999999;
+    color: #333333;
+    text-decoration: none;
+}
+
+.wrap{
+    margin: 0 auto;
+    width: 400px;
+}
+
+#content{
+    margin: 120px 0 10px 0;
+}
+#content .b1{
+    background: #ffffff;
+}
+#content .b2{
+    background: #eaeaea;
+}
+
+
+/* CONTENT MAIN START */
+
+#content #main{
+    float: right;
+    margin: 0 0 12px 0;
+    width: 400px;
+}
+#main .full_w{
+    background: #ffffff;
+    border: 1px solid #DCDDE1;
+    border-radius: 5px;
+    -webkit-box-shadow:  2px 2px 0px 1px rgba(235, 235, 235, 1);
+    -moz-box-shadow:  2px 2px 0px 1px rgba(235, 235, 235, 1);
+    box-shadow:  2px 2px 0px 1px rgba(235, 235, 235, 1);
+    color: #848484;
+    margin: 0 0 5px 0;
+}
+#main .full_w .h_title{
+    background: url(../../img/admin/bg_box_head.jpg) repeat-x;
+    color: #bebebe;
+    font-size: 11px;
+    font-weight: normal;
+    height: 22px;
+    padding: 7px 0 0 15px;
+    text-shadow: #0E0E0E 0px 1px 1px;
+}
+
+/* CONTENT MAIN FORM */
+
+.left{ 	float: left; width: 230px;}
+.right{ float: right; width: 215px;}
+.right h3{	margin: 0 0 8px 0;}
+.right p{	margin: 0 0 8px 0;}
+
+#main form{
+    margin: 15px;
+}
+#main form .element{
+    clear: both;
+    border-bottom: 1px dashed #ededed;
+    display: block;
+    margin: 0;
+    padding: 10px 10px;
+}
+#main form label{
+    color: #575757;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+    padding: 0 0 0 3px;
+}
+#main form label span{
+    color: #b8b8b8;
+    font-size: 11px;
+    font-weight: normal;
+}
+#main form input, #main form select, #main form textarea{
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    padding: 5px 3px;
+}
+#main form input:focus, #main form select:focus, #main form textarea:focus{border: 1px solid #b3b3b3;}
+
+#main form select{
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+
+}
+#main form .text{
+    margin: 0 0 12px 0;
+    width: 98%;
+}
+
+#main form .ok{
+    background: #F3F3F3 url(../../img/admin/i_ok.png) no-repeat 4px center;
+    padding-left: 25px;
+}
+
+#main .footer{
+    margin: 0 15px;
+    text-align: center;
+    text-shadow: 1px 1px 0px #ffffff;
+}
+#main .footer a{
+    color: #bebebe;
+}
+
+/* MAIN NOTIFY */
+
+#main .n_warning{background: #FFF7CE;border: 1px solid #D9C65B; border-radius: 3px; margin: 20px 15px;padding: 1px;}
+#main .n_warning p{	background: #FDF0B1 url(../../img/admin/i_warning.png) no-repeat 4px center;	color: #756B30;	padding: 7px 25px;}
+#main .n_warning a{	color: #756B30;	font-weight: bold;}
+
+#main .n_ok{background: #F6FFEC;border: 1px solid #89B755; border-radius: 3px; margin: 20px 15px;padding: 1px;}
+#main .n_ok p{background: #DFF6C5 url(../../img/admin/i_ok.png) no-repeat 4px center; color: #496528; padding: 7px 25px;}
+#main .n_ok a{color: #756B30;	font-weight: bold;}
+
+#main .n_error{background: #FDE4E1;border: 1px solid #B16A6C; border-radius: 3px; margin: 20px 15px;padding: 1px;}
+#main .n_error p{background: #F4CAC6 url(../../img/admin/i_error.png) no-repeat 4px center; color: #630E18; padding: 7px 25px;}
+#main .n_error a{color: #756B30;	font-weight: bold;}
+
+
+/* HELPERS START */
+
+.entry{ color: #444; margin: 5px 0; padding: 5px 15px; text-shadow: 0px 1px #ffffff; }
+.sep{ border-bottom: 1px dashed #DDDDDD; margin: 10px 0;}
+
+.clear{ clear: both; }
+
+.align-left{ text-align: left; }
+.align-right{ text-align: right; }

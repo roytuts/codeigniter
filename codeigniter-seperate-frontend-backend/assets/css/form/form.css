@@ -1,0 +1,36 @@
+.body {
+    /*max-width: 600px;*/
+    max-width: 590px;
+    margin: 0 auto;
+    /*    padding: 40px;*/
+    padding: 28px;
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+}
+.body-s {
+    max-width: 400px;
+}
+.body-l {
+    /*max-width: 600px;*/
+    max-width: 830px;
+    margin: 0 auto;
+    /*    padding: 40px;*/
+    padding: 28px;
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+}
+.modal {
+    padding: 25px 30px;
+    background: rgba(255,255,255,0.9);
+    font: 13px/1.55 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #666;
+}
+.modal a {
+    color: #2da5da;
+}
+
+@media screen and (max-width: 600px) {
+    .body {
+        padding: 20px;
+    }
+}

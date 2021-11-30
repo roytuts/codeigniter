@@ -1,0 +1,39 @@
+.message_box {
+    margin-top: 10px;
+}
+
+.warning, .error, .info, .success {
+    /*padding: 20px 20px 20px 40px;*/
+    max-width: 525px;
+    margin: auto;
+    padding: 10px 10px 10px 45px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+}
+
+.warning {
+    background-color: #f8fad5;
+    background-image: url(../img/messages/warning.png);
+    border-color: #e5d35b;
+}
+
+.error {
+    background-color: #f5dfdf;
+    background-image: url(../img/messages/error.png);
+    border-color: #ce9e9e;
+}
+
+.info {
+    background-color: #dfeff5;
+    background-image: url(../img/messages/info.png);
+    border-color: #9ebcce;
+}
+
+.success {
+    background-color: #e8f5df;
+    background-image: url(../img/messages/success.png);
+    border-color: #9ece9e;
+}
