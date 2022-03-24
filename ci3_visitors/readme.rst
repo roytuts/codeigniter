@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/codeigniter-online-visitor-tracking-system/
+Please follow the tutorial https://roytuts.com/codeigniter-online-visitor-tracking-system/
