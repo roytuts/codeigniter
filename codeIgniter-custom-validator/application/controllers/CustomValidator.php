@@ -16,12 +16,12 @@ class CustomValidator extends CI_Controller {
 				//process your business
 				//for testing purpose only
 				$data['msg'] = 'Validation passed!';
-				$this->load->view('date', $data);
+				$this->load->view('validation', $data);
 			} else {
-				$this->load->view('date');
+				$this->load->view('validation');
 			}
 		} else {		
-			$this->load->view('date');
+			$this->load->view('validation');
 		}
 	}
 	
