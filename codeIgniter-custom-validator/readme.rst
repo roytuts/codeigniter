@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/custom-validation-example-in-codeigniter/
+Please follow the tutorial https://roytuts.com/custom-validation-example-in-codeigniter/
