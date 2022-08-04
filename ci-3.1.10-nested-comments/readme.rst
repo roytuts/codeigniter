@@ -1,1 +1,0 @@
-You can read tutorial https://www.roytuts.com/nested-comments-using-codeigniter-ajax/
