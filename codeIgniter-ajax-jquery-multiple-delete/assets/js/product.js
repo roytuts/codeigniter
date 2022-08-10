@@ -34,6 +34,7 @@ $(function() {
 			$.ajax({
 				type: "POST",
 				url: "http://localhost:8000/codeIgniter-ajax-jquery-multiple-delete/index.php/product/delete_products",
+				//url: "http://localhost/product/delete_products",
 				data: {'ids': ids},
 				dataType: "html",
 				cache: false,
