@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/backup-site-and-database-in-codeigniter/
+Please follow the tutorial https://roytuts.com/backup-site-and-database-in-codeigniter/
