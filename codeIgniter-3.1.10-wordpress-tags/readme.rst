@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/create-wordpress-like-add-tags-using-codeigniter-and-jquery/
+Please follow the tutorial https://roytuts.com/create-wordpress-like-add-tags-using-codeigniter-and-jquery/
