@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/profiling-codeigniter-application/
+Please follow the tutorial https://roytuts.com/profiling-codeigniter-application/
