@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/bookmark-web-page-using-codeigniter-and-jquery/
+Please follow the tutorial https://roytuts.com/bookmark-web-page-using-codeigniter-and-jquery/
