@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/codeigniter-pagination-example/
+Please follow the tutorial https://roytuts.com/codeigniter-pagination-example/
