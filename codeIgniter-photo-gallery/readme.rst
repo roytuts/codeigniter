@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/codeigniter-photo-gallery/
+Please follow the tutorial https://roytuts.com/codeigniter-photo-gallery/
