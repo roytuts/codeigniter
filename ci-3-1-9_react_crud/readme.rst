@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/codeigniter-rest-reactjs-crud/
+Please follow the tutorial https://roytuts.com/codeigniter-rest-reactjs-crud/
