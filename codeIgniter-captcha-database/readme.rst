@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/adding-captcha-to-database-using-codeigniter/
+Please follow the tutorial https://roytuts.com/adding-captcha-to-database-using-codeigniter/
