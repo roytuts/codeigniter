@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/thumbnail-creation-example-in-codeigniter/
+Please follow the tutorial https://roytuts.com/thumbnail-creation-example-in-codeigniter/
