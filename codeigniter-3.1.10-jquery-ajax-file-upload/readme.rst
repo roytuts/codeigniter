@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/ajax-file-upload-using-codeigniter-jquery/
+Please follow the tutorial https://roytuts.com/ajax-file-upload-using-codeigniter-jquery/
