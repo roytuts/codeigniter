@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/display-site-maintenence-message-using-codeigniter/
+Please follow the tutorial https://roytuts.com/display-site-maintenence-message-using-codeigniter/
