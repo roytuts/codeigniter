@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/username-availability-check-using-codeigniter-ajax-and-mysql/
+Please follow the tutorial https://roytuts.com/username-availability-check-using-codeigniter-ajax-and-mysql/
