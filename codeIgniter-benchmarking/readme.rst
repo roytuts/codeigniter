@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/benchmarking-codeigniter-application/
+Please follow the tutorial https://roytuts.com/benchmarking-codeigniter-application/
