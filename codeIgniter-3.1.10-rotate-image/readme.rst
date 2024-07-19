@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/upload-and-rotate-image-using-codeigniter/
+Please follow the tutorial https://roytuts.com/upload-and-rotate-image-using-codeigniter/
