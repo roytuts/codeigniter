@@ -1,1 +1,1 @@
-You can go through the tutorial https://roytuts.com/highchart-using-ajax-codeigniter/
+Please follow the tutorial https://roytuts.com/highchart-using-ajax-codeigniter/
